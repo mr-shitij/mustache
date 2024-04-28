@@ -67,7 +67,7 @@ layout.html.mustache:
 <html>
 <head><title>Hi</title></head>
 <body>
-{{{content}}}
+{{content}}
 </body>
 </html>
 ```
